@@ -7,9 +7,6 @@ Research and Development - new data compression technique
 2. 127 possible characters are there.. so 127 possible combination of hexadecimal code is available.
 
 
-
-
-
 ----------
 **usefull links**
 ----------
